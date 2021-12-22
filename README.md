@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+### Salve!
+
 <p align="left"> 
-  <strong>Salve!</strong> Sou o pumba, estudante de Ciência da Computação e Programador Full-Stack.<br>
+  Sou o pumba, estudante de Ciência da Computação e Programador Full-Stack.<br>
   Atualmente estou com 70% do curso concluído e estou focado na Programação Web e Mobile.
 </p>
 
