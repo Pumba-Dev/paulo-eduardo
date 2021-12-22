@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Salve!
+### 👋 Salve!
 
 <p align="left"> 
-  Sou o pumba, estudante de Ciência da Computação e Programador Full-Stack.<br>
+  Olá, sou o pumba, estudante de Ciência da Computação e Programador Full-Stack.<br>
   Atualmente estou com 70% do curso concluído e estou focado na Programação Web e Mobile.
 </p>
 
@@ -39,3 +39,11 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/strogonothing/"/></a>
 </p>  
+
+<details>	
+  <summary><b>⚡ GitHubs Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pumba-dev&theme=dark&show_icons=true" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pumba-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="pumba-dev" /></p>
+</details>
+
