@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Rails | React | Vue | Bootstrap </strong>
+  🚀 Tecnologias: <strong> Rails | React | Vue | Firebase | Bootstrap </strong>
 </p>
 
 <p align="left">
