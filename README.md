@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> C | Java | SQL | Ruby | JavaScript | HTML | CSS |  </strong>
+  🦄 Linguagens: <strong> C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
 </p>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git | Firebase | VSCode | Figma | Photoshop | Illustrator .</strong>
+  💼 Ferramentas: <strong> Git | Firebase | VSCode | Figma | Photoshop | Illustrator </strong>
 </p>
 
 <p align="left">
