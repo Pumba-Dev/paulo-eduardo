@@ -43,6 +43,6 @@
 <details>	
   <summary><b>⚡ GitHubs Stats</b></summary>
   <br />
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=pumba-dev&theme=dark&show_icons=true" alt="pumba-dev" /> <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pumba-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="pumba-dev" />
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pumba-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="pumba-dev" /> <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=pumba-dev&theme=dark&show_icons=true" alt="pumba-dev" />
 </details>
 
