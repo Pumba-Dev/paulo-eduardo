@@ -3,8 +3,7 @@
 ### 👋 Salve!
 
 <p align="left"> 
-  Olá, sou o pumba, estudante de Ciência da Computação e Programador Full-Stack.<br>
-  Atualmente estou com 70% do curso concluído e estou focado na Programação Web e Mobile.
+  Olá, sou o pumba, estudante de Ciência da Computação e Programador Full-Stack. Atualmente estou com 70% do curso concluído e estou focado na Programação Web e Mobile.
 </p>
 
 <p align="left">
