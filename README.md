@@ -43,10 +43,10 @@
   <summary><b>⚡ GitHubs Stats</b></summary>
   <br />
   <div justify="space-between">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pumba-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="pumba-dev" /> 
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pumba-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pumba-dev" /> 
     &nbsp; &nbsp; &nbsp; &nbsp;
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=pumba-dev&theme=dark&show_icons=true" alt="pumba-dev" />
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=pumba-dev&theme=tokyonight&show_icons=true" alt="pumba-dev" />
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pumba-dev&theme=tokyonight" alt="pumba-dev" />
   </div>
 </details>
 
