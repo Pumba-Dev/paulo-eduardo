@@ -39,10 +39,12 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/strogonothing/"/></a>
 </p>  
 
-💰 Donate
+<p> 💰 Donate </p>
+<div>
 [![PicPay](https://img.shields.io/badge/PicPay-%40PumbaDev%20-brightgreen)](https://picpay.me/pumbadev)
 [![Nubank](https://img.shields.io/badge/Nubank-Pix%20QR%20Code-blueviolet)](https://nubank.com.br/pagar/1ou9f/ifu2K7YNO7)
-
+<div>
+  
 <details>	
   <summary><b>⚡ GitHubs Stats</b></summary>
   <br />
