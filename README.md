@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Rails | React | Vue | Bootstrap </strong>
+  🚀 Tecnologias: <strong> Git | Rails | React | Vue | Bootstrap | Tailwind  </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Git | Firebase | VSCode | Figma | Photoshop | Illustrator </strong>
+  💼 Ferramentas: <strong> Firebase | VSCode | Figma | Photoshop | Illustrator </strong>
 </p>
 
 <p align="left">
