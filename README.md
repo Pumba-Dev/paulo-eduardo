@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:pauloaraujo@ufpi.edu.br" alt="Gmail">
+  <a href="mailto:pumbadeveloper@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pauloaraujo@ufpi.edu.br" /></a>
 
   <a href="https://www.linkedin.com/in/pumba-dev/" alt="Linkedin">
