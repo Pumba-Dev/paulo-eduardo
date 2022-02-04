@@ -32,7 +32,7 @@
   <a href="https://api.whatsapp.com/send?phone=5598984264231" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5598984264231"/></a>
 
-  <a href="https://www.facebook.com/dudu.paulo" alt="Facebook">
+  <a href="https://www.facebook.com/pumbadev" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/dudu.paulo/"/></a>
 
   <a href="https://www.instagram.com/strogonothing" alt="Instagram">
