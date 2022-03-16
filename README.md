@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Git | Rails | React | Vue | SCSS | Tailwind  </strong>
+  🚀 Tecnologias: <strong> Git | Rails | React | Vue | Sass | Tailwind  </strong>
 </p>
 
 <p align="left">
