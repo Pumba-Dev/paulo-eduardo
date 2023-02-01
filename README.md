@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Shell | C | C++ | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
+  🦄 Linguagens: <strong> Shell | C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VSCode | Eclipse | Falcon C++ | Figma | Photoshop | Illustrator </strong>
+  💼 Ferramentas: <strong> VSCode | Eclipse | Figma | Photoshop | Illustrator </strong>
 </p>
 
 <p align="left">
