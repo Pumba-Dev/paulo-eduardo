@@ -3,19 +3,19 @@
 ## 👋 Salve!
 
 <p align="left"> 
-  Olá, sou o Pumba, estudante de Ciência da Computação e Programador Full-Stack. Atualmente estou com 70% do curso concluído e focado na Programação Web e no UI/UX Design.
+  Olá, sou o Pumba, estudante de Ciência da Computação e Programador Front-End. Atualmente estou com 75% do curso concluído e focado na Programação Web e no UI/UX Design.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
+  🦄 Linguagens: <strong> Shell | C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Git | Rails | React | Vue | Sass | Tailwind  </strong>
+  🚀 Tecnologias: <strong> Git | NPM | Rails | React | Vue | Vuetify | Node | Bootstrap | Sass | Tailwind | Firebase </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Firebase | VSCode | Figma | Photoshop | Illustrator </strong>
+  💼 Ferramentas: <strong> VSCode | Eclipse | Falcon C++ | Figma | Photoshop | Illustrator </strong>
 </p>
 
 <p align="left">
