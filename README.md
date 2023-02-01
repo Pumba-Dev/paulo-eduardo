@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Shell | C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
+  🦄 Linguagens: <strong> C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
 </p>
 
 <p align="left">
