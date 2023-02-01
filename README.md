@@ -7,11 +7,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Shell | C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
+  🦄 Linguagens: <strong> Shell | C | C++ | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Git | NPM | Rails | React | Vue | Vuetify | Node | Bootstrap | Sass | Tailwind | Firebase </strong>
+  🚀 Tecnologias: <strong> Git | NPM | Rails | React | Vue | Node | Firebase </strong>
+</p>
+
+<p align="left">
+  🎨 Estilização: <strong> Vuetify | Bootstrap | Sass | Tailwind | MaterialUI </strong>
 </p>
 
 <p align="left">
