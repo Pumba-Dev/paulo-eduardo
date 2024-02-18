@@ -3,23 +3,23 @@
 ## 👋 Salve!
 
 <p align="left"> 
-  Olá, sou o Pumba, estudante de Ciência da Computação e Programador Front-End. Atualmente estou com 75% do curso concluído e focado na Programação Web e no UI/UX Design.
+   Oi! Eu sou o Pumba, um entusiasta da tecnologia e um desenvolvedor apaixonado. Este é o meu cantinho do código, onde compartilho minhas aventuras e projetos interessantes.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> C | Java | SQL | Ruby | JavaScript | HTML | CSS </strong>
+  🦄 Linguagens: <strong> JavaScript (TS) | Java | Ruby | Python | SQL | C </strong>
 </p>
 
 <p align="left">
-  🚀 Tecnologias: <strong> Git | NPM | Rails | React | Vue | Node | Firebase </strong>
+  🚀 Tecnologias: <strong> Vue | React | Node | Rails | Jest | Firebase </strong>
 </p>
 
 <p align="left">
-  🎨 Estilização: <strong> Vuetify | Bootstrap | Sass | Tailwind | MaterialUI </strong>
+  🎨 Estilos: <strong> Vuetify | Bootstrap | SASS | Tailwind | AntDesign </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VSCode | Eclipse | Figma | Photoshop | Illustrator </strong>
+  💼 Ferramentas: <strong> Git | Docker | VSCode | Eclipse | Figma </strong>
 </p>
 
 <p align="left">
